@@ -1,0 +1,5 @@
+<factura>
+  <nombre></nombre>
+  <total></total>
+  <iva></iva>
+</factura>
